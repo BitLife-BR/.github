@@ -74,6 +74,6 @@ Sim, o jogo base é gratuito, mas há versões premium e modificadas com funcion
 
 ## **Conclusão**
 
-O BitLife BR APK é mais do que um simples jogo: é uma ferramenta divertida para explorar escolhas e imaginar como sua vida seria diferente se você tomasse outros caminhos. Com sua adaptação ao contexto brasileiro, IA avançada e opções quase infinitas, o jogo é uma excelente escolha para quem gosta de narrativas interativas. 
+O [BitLife BR APK](https://github.com/BitLife-BR) é mais do que um simples jogo: é uma ferramenta divertida para explorar escolhas e imaginar como sua vida seria diferente se você tomasse outros caminhos. Com sua adaptação ao contexto brasileiro, IA avançada e opções quase infinitas, o jogo é uma excelente escolha para quem gosta de narrativas interativas. 
 
 Seja para encarar os desafios da vida real ou para viver uma fantasia sem preocupações financeiras, o BitLife BR garante uma experiência envolvente e surpreendente.
